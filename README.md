@@ -2,174 +2,67 @@
 
 # ARRAYS
 
-# Array Patterns Practice List
-
-## 1. Traversal
-
-- Find Maximum Element - https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1
-- Find Minimum Element - https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1
-- Check if Array is Sorted - https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1
-- Second Largest Element - https://www.geeksforgeeks.org/problems/second-largest3735/1
-- Move Zeroes - https://leetcode.com/problems/move-zeroes/description/
-- Remove Duplicates from Sorted Array - https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
-- Find the Missing Number - https://leetcode.com/problems/missing-number/description/
-- Best Time to Buy and Sell Stock - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
-
-## 2. Linear Search
-
-- Search Insert Position
-- Find First Occurrence
-- Find Last Occurrence
-- Find Peak Element
-- Check if Element Exists
-- Find the Index of Target
-- First Unique Element
-
-## 3. Frequency Counting / Hashing
+### 1. Hashing / Frequency
 
 - Two Sum
 - Contains Duplicate
 - Majority Element
-- Top K Frequent Elements
-- Longest Consecutive Sequence
-- Find All Duplicates in an Array
+- First Unique Element
 - Subarray Sum Equals K
-- Intersection of Two Arrays
 
-## 4. Two Pointers
+### 2. Two Pointers / In-Place
 
-- Two Sum II
-- Container With Most Water
-- 3Sum
-- 4Sum
-- Sort Colors
 - Remove Element
-- Squares of a Sorted Array
-- Trapping Rain Water
-
-## 5. Slow and Fast Pointers
-
 - Remove Duplicates from Sorted Array
 - Move Zeroes
+- Squares of a Sorted Array
+- Container With Most Water
 - Sort Colors
-- Duplicate Zeros
-- Partition Array According to Given Pivot
 
-## 6. Sliding Window
+### 3. Sliding Window
 
 - Maximum Sum Subarray of Size K
 - Minimum Size Subarray Sum
-- Longest Substring Without Repeating Characters
-- Longest Repeating Character Replacement
-- Permutation in String
-- Find All Anagrams in a String
-- Sliding Window Maximum
-- Maximum Average Subarray I
 
-## 7. Prefix Sum
+### 4. Prefix Sum
 
 - Running Sum of 1D Array
-- Range Sum Query
 - Find Pivot Index
 - Subarray Sum Equals K
-- Continuous Subarray Sum
-- Product of Array Except Self
-- Count Number of Nice Subarrays
 
-## 8. Kadane’s Algorithm
+### 5. Kadane / Greedy Traversal
 
 - Maximum Subarray
-- Maximum Product Subarray
 - Best Time to Buy and Sell Stock
-- Maximum Sum Circular Subarray
 
-## 9. Binary Search
+### 6. Binary Search
 
 - Binary Search
 - Search Insert Position
-- Find First and Last Position of Element
-- Search in Rotated Sorted Array
-- Find Minimum in Rotated Sorted Array
-- Sqrt(x)
-- Peak Index in a Mountain Array
-- Single Element in a Sorted Array
 
-## 10. Sorting + Scanning
-
-- Merge Sorted Array
-- 3Sum
-- 4Sum
-- Sort Colors
-- Merge Intervals
-- Insert Interval
-- Meeting Rooms
-- Non-overlapping Intervals
-
-## 11. In-Place Modification
-
-- Move Zeroes
-- Remove Element
-- Remove Duplicates from Sorted Array
-- Rotate Array
-- Sort Colors
-- Next Permutation
-- Duplicate Zeros
-
-## 12. Merge Intervals
-
-- Merge Intervals
-- Insert Interval
-- Non-overlapping Intervals
-- Meeting Rooms
-- Meeting Rooms II
-- Minimum Number of Arrows to Burst Balloons
-- Interval List Intersections
-
-## 13. Cyclic Sort / Index Placement
+### 7. Cyclic Sort / Index Placement
 
 - Missing Number
-- Find All Numbers Disappeared in an Array
-- Find the Duplicate Number
-- Find All Duplicates in an Array
-- First Missing Positive
-- Set Mismatch
 
-## 14. Matrix / 2D Array Traversal
+### 8. Sorting + Intervals
 
-- Set Matrix Zeroes
-- Spiral Matrix
-- Rotate Image
-- Search a 2D Matrix
-- Search a 2D Matrix II
-- Diagonal Traverse
-- Game of Life
-- Number of Islands
+- Merge Intervals
+- Insert Interval
 
-## 15. Monotonic Stack
+## Main Array Patterns to Remember
 
-- Next Greater Element I
-- Next Greater Element II
-- Daily Temperatures
-- Stock Span Problem
-- Largest Rectangle in Histogram
-- Trapping Rain Water
+1. Hashing
+2. Two Pointers
+3. Sliding Window
+4. Prefix Sum
+5. Kadane
+6. Binary Search
+7. In-Place Rearrangement
+8. Intervals
 
-## 16. Greedy
+## Important Notes
 
-- Jump Game
-- Jump Game II
-- Gas Station
-- Candy
-- Partition Labels
-- Maximum Subarray
-- Non-overlapping Intervals
-
-## 17. Heap / Priority Queue
-
-- Kth Largest Element in an Array
-- Top K Frequent Elements
-- Merge K Sorted Arrays
-- Find Median from Data Stream
-- Sliding Window Maximum
-- Last Stone Weight
-- K Closest Points to Origin
+- Sort Colors is a special pattern called Dutch National Flag.
+- Missing Number can be solved in multiple ways, but for pattern learning keep it under Cyclic Sort / Index Placement.
+- Best Time to Buy and Sell Stock is commonly treated as Greedy Traversal.
+- Subarray Sum Equals K is one of the most important problems because it combines Prefix Sum and Hashing.
