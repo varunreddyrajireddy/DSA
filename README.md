@@ -4,11 +4,10 @@
 
 ### 1. Hashing / Frequency
 
-- Two Sum
-- Contains Duplicate
-- Majority Element
-- First Unique Element
-- Subarray Sum Equals K
+- Two Sum - https://leetcode.com/problems/two-sum/description/
+- Contains Duplicate - https://leetcode.com/problems/contains-duplicate/description/
+- Majority Element - https://leetcode.com/problems/majority-element/description/
+- First Unique Element - https://leetcode.com/problems/first-unique-even-element/description/
 
 ### 2. Two Pointers / In-Place
 
@@ -28,7 +27,7 @@
 
 - Running Sum of 1D Array
 - Find Pivot Index
-- Subarray Sum Equals K
+- Subarray Sum Equals K - https://leetcode.com/problems/subarray-sum-equals-k/description/
 
 ### 5. Kadane / Greedy Traversal
 
