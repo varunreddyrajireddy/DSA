@@ -11,12 +11,12 @@
 
 ### 2. Two Pointers / In-Place
 
-- Remove Element
-- Remove Duplicates from Sorted Array
-- Move Zeroes
-- Squares of a Sorted Array
-- Container With Most Water
-- Sort Colors
+- Remove Element - https://leetcode.com/problems/remove-element/
+- Remove Duplicates from Sorted Array - https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
+- Move Zeroes - https://leetcode.com/problems/move-zeroes/description/
+- Squares of a Sorted Array - https://leetcode.com/problems/squares-of-a-sorted-array/description/
+- Container With Most Water - https://leetcode.com/problems/container-with-most-water/description/
+- Sort Colors - https://leetcode.com/problems/sort-colors/description/
 
 ### 3. Sliding Window
 
