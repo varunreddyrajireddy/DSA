@@ -20,44 +20,34 @@
 
 ### 3. Sliding Window
 
-- Maximum Sum Subarray of Size K
-- Minimum Size Subarray Sum
+- Maximum Average Subarray 1 - https://leetcode.com/problems/maximum-average-subarray-i/description/
+- Maximum Sum Subarray of Size K - https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/
+- Minimum Size Subarray Sum - https://leetcode.com/problems/minimum-size-subarray-sum/
 
 ### 4. Prefix Sum
 
-- Running Sum of 1D Array
-- Find Pivot Index
+- Running Sum of 1D Array - https://leetcode.com/problems/running-sum-of-1d-array/description/
+- Find Pivot Index - https://leetcode.com/problems/find-pivot-index/
 - Subarray Sum Equals K - https://leetcode.com/problems/subarray-sum-equals-k/description/
 
 ### 5. Kadane / Greedy Traversal
 
-- Maximum Subarray
-- Best Time to Buy and Sell Stock
+- Maximum Subarray - https://leetcode.com/problems/maximum-subarray/description/
+- Best Time to Buy and Sell Stock - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 
 ### 6. Binary Search
 
-- Binary Search
-- Search Insert Position
+- Binary Search - https://leetcode.com/problems/binary-search/
+- Search Insert Position - https://leetcode.com/problems/search-insert-position/description/
 
 ### 7. Cyclic Sort / Index Placement
 
-- Missing Number
+- Missing Number - https://leetcode.com/problems/missing-number/description/
 
 ### 8. Sorting + Intervals
 
-- Merge Intervals
-- Insert Interval
-
-## Main Array Patterns to Remember
-
-1. Hashing
-2. Two Pointers
-3. Sliding Window
-4. Prefix Sum
-5. Kadane
-6. Binary Search
-7. In-Place Rearrangement
-8. Intervals
+- Merge Intervals - https://leetcode.com/problems/merge-intervals/description/
+- Insert Interval - https://leetcode.com/problems/insert-interval/description/
 
 ## Important Notes
 
